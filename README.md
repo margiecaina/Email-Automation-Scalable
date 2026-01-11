@@ -3,7 +3,7 @@
 Designed and implemented an **automation workflow using Alteryx** to streamline internal team communications and operational tasks.  
 This initiative **reduced repetitive administrative work** and promoted a culture of innovation and automation within the team.  
 
-*<div align="center">Diagram demonstrates a scalable workflow using dummy data. Production workflow is company-owned and not publicly shared.</div>*
+> ⚠️ **Note:** This repository contains a **portfolio version of a workflow I personally designed**. It uses **dummy data for demonstration purposes**. The production workflow I created is LOB-specific hence implemented differently and separately in the company environment for operational use.
 
 ---
 
@@ -35,8 +35,6 @@ This initiative **reduced repetitive administrative work** and promoted a cultur
 <div align="center">
   <img src="https://github.com/user-attachments/assets/8eb4f598-a492-4731-ae18-e96afbc04bf3" alt="Alteryx Email Automation Workflow" width="600"/>
 </div>
-> ⚠️ **Note:** This repository contains a **portfolio version of a workflow I personally designed**. It uses **dummy data for demonstration purposes**. The production workflow I created is LOB-specific hence implemented differently and separately in the company environment for operational use.
-
 ---
 
 ## Workflow Steps (Scalable Version)
