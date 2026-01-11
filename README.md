@@ -32,7 +32,7 @@ This initiative **reduced repetitive administrative work** and promoted a cultur
 ---
 
 ## Workflow Diagram
-<img src="https://github.com/user-attachments/assets/8eb4f598-a492-4731-ae18-e96afbc04bf3" alt="Herbitech Team" width="400" style="max-width:100%; height:auto;"/>
+![Workflow Diagram](https://github.com/user-attachments/assets/8eb4f598-a492-4731-ae18-e96afbc04bf3)
 
 ---
 
