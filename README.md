@@ -35,6 +35,7 @@ This initiative **reduced repetitive administrative work** and promoted a cultur
 <div align="center">
   <img src="https://github.com/user-attachments/assets/8eb4f598-a492-4731-ae18-e96afbc04bf3" alt="Alteryx Email Automation Workflow" width="600"/>
 </div>
+> ⚠️ **Note:** This repository contains a **portfolio version of a workflow I personally designed**. It uses **dummy data for demonstration purposes**. The production workflow I created is LOB-specific hence implemented differently and separately in the company environment for operational use.
 
 ---
 
